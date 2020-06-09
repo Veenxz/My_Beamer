@@ -8,7 +8,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\documentclass{beamer}	% Compile at least twice!
+\documentclass[aspectratio=169]{beamer}	% Compile at least twice!
 %\setbeamertemplate{navigation symbols}{}
 \usetheme{Warsaw}
 %\useinnertheme{rectangles}
@@ -18,7 +18,7 @@
 % -------------------
 % Packages
 % -------------------
-\usepackage{
+\usepackage{	
 	amsmath,			% Math Environments
 	amssymb,			% Extended Symbols
 	enumerate,		    % Enumerate Environments
@@ -31,6 +31,29 @@
 }
 \usepackage[english]{babel}
 
+\iffalse
+\DeclareOptionBeamer{aspectratio}[169]{%
+  \ifnum#1=1610% 16:10
+    \beamer@paperwidth 16.00cm%
+    \beamer@paperheight 10.00cm%
+  \else\ifnum#1=169% 16:9
+    \beamer@paperwidth 16.00cm%
+    \beamer@paperheight 9.00cm%
+  \else\ifnum#1=149% 14:9
+    \beamer@paperwidth 14.00cm%
+    \beamer@paperheight 9.00cm%
+  \else\ifnum#1=54% 5:4
+    \beamer@paperwidth 12.50cm%
+    \beamer@paperheight 10.00cm%
+  \else\ifnum#1=43% 4:3
+    \beamer@paperwidth 12.80cm%
+    \beamer@paperheight 9.60cm%
+  \else\ifnum#1=32% 3:2
+    \beamer@paperwidth 13.50cm%
+    \beamer@paperheight 9.00cm%
+  \fi\fi\fi\fi\fi\fi%
+}
+\fi
 
 % -------------------
 % Colors
@@ -62,8 +85,8 @@
 \setbeamerfont{frametitle}{shape=\scshape}
 \setbeamertemplate{itemize items}[circle]
 
-%添加页码
-\addtobeamertemplate{navigation symbols}{}{\hspace{55 em}  \usebeamerfont{footlines}%
+%添加页码  4:3 55em  16:9 78em
+\addtobeamertemplate{navigation symbols}{}{\hspace{78 em}  \usebeamerfont{footlines}%
 	   \insertframenumber / \inserttotalframenumber \hspace{0.5 em}}
 % -------------------
 % Commands
