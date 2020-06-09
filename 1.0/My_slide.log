@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.9)  9 JUN 2020 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.9)  9 JUN 2020 18:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1277,7 +1277,7 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
 File: logo_new.png Graphic file (type png)
 <use logo_new.png>
 Package pdftex.def Info: logo_new.png  used on input line 153.
-(pdftex.def)             Requested size: 118.0003pt x 30.73085pt.
+(pdftex.def)             Requested size: 141.59698pt x 36.87328pt.
  [1{d:/ProgramData/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./logo_new.png>] [2
@@ -1326,11 +1326,11 @@ Package rerunfilecheck Info: File `My_slide.out' has not changed.
 (rerunfilecheck)             Checksum: 6EDA404877398F812303372E85498082;223.
  ) 
 Here is how much of TeX's memory you used:
- 34274 strings out of 480608
- 834905 string characters out of 5901645
+ 34276 strings out of 480608
+ 834924 string characters out of 5901645
  1244293 words of memory out of 5000000
- 49390 multiletter control sequences out of 15000+600000
- 556338 words of font info for 93 fonts, out of 8000000 for 9000
+ 49391 multiletter control sequences out of 15000+600000
+ 557440 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,20n,136p,792b,798s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/ProgramData/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/Progr
@@ -1346,7 +1346,7 @@ ols/msbm10.pfb><d:/ProgramData/texlive/2020/texmf-dist/fonts/type1/urw/palatino
 /uplb8a.pfb><d:/ProgramData/texlive/2020/texmf-dist/fonts/type1/urw/palatino/up
 lr8a.pfb><d:/ProgramData/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on My_slide.pdf (13 pages, 303356 bytes).
+Output written on My_slide.pdf (13 pages, 303360 bytes).
 PDF statistics:
  687 PDF objects out of 1000 (max. 8388607)
  619 compressed objects within 7 object streams
