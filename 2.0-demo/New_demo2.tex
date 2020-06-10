@@ -1,0 +1,79 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                           %
+%                             My LaTeX slide                                %
+%                       Author:Veenxz Version:2.0                           %
+%                            Generator:XeLaTeX                              %
+%                      Beijing Forestry University                          %
+%                         Update Date:2020/06/10                            %
+%                                                                           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[UTF8,aspectratio=169]{ctexbeamer}
+% for old TeX systems, please use the following alternate
+% \documentclass[notheorems]{beamer}
+% \usepackage[UTF8]{ctex}
+
+\usepackage{
+    latexsym,
+    amsmath,
+    amssymb,
+    color,
+    xcolor,
+    graphicx,
+    algorithm,
+    amsthm
+}
+
+\usetheme{Madrid}
+\usefonttheme[onlymath]{serif}
+\usecolortheme{whale}
+
+\newtheorem{proposition}[theorem]{命题}
+\setbeamertemplate{theorems}[numbered]
+\begin{document}
+
+\title[ss]{ss}
+\author[ss]{马}
+\institute[math] {数学系}
+\date[April, 2014]{2014 年 4月}
+\frame{\titlepage}
+
+\begin{frame}
+\frametitle{图表}
+\begin{columns}
+\begin{column}{0.5\linewidth}
+\begin{figure}
+\centering
+\rule{4cm}{3cm}
+\caption{Dummy Figure}\label{fig:dummy}
+\end{figure}
+\end{column}
+\begin{column}{0.5\linewidth}
+\begin{table}
+\centering
+\caption{Dummy Table}\label{tab:dummy}
+\rule{4cm}{3cm}
+\end{table}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{定理等}
+\begin{theorem}
+    这是定理。
+\end{theorem}
+\begin{definition}
+    这是定义。
+\end{definition}
+\begin{lemma}
+    这是引理。
+\end{lemma}
+\begin{example}
+    这是例子。
+\end{example}
+\begin{proposition}
+    这是命题。
+\end{proposition}
+\end{frame}
+\end{document}

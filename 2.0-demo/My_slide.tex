@@ -30,6 +30,9 @@
 	stmaryrd			% For brackets
 }
 \usepackage[english]{babel}
+\usepackage{CJK}
+\usepackage{setspace}
+
 
 \iffalse
 \DeclareOptionBeamer{aspectratio}[169]{%
@@ -88,6 +91,11 @@
 %Add page numbers  4:3 55em  16:9 78em
 \addtobeamertemplate{navigation symbols}{}{\hspace{78 em}  \usebeamerfont{footlines}%
 	   \insertframenumber / \inserttotalframenumber \hspace{0.5 em}}
+
+%\setbeamertemplate{background}{\includegraphics[height=\paperheight]{logo.png}} 
+
+
+
 % -------------------
 % Commands
 % -------------------
@@ -144,15 +152,17 @@
 \theoremstyle{remark}
 \newtheorem{rem}{Remark}[section] 
 \numberwithin{equation}{section}
+\setstretch{} 
 
 % -------------------
 % Logo
 % -------------------
 %Only Title
-\titlegraphic{\includegraphics[height=0.12\textwidth]{logo_new.png}}
+%\titlegraphic{\includegraphics[height=0.12\textwidth]{logo_new.png}}
 
 %All
 %\logo{\includegraphics[height=0.2\textwidth]{logo.png}}
+\logo {\includegraphics [height = 0.21 \textheight] {logo.png}\vspace {0.77\textheight }}
 
 
 % -------------------
@@ -184,14 +194,19 @@
 
 % Introduction-Background
 \begin{frame}
-Introduction-Background. \dots
+\setstretch{2} 
+Introduction-Background. \dots \\
+\begin{CJK}{UTF8}{gbsn}   % 中间的UTF8编码参数是必须要写的 可选字体gbsn gkai
+中文测试\\%
+\end{CJK}
 \end{frame}
 
 
 
 % Definitions & Examples
 \begin{frame}
-Here is my definition\dots
+Here is my definition\dots \\
+new raw
 
 \begin{dfn}[01]
 DFN
