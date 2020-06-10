@@ -27,11 +27,11 @@
 	multicol,			% Use Multi-columns
 	multirow,			% Use Multi-rows
 	pifont,			    % For Checkmarks
-	stmaryrd			% For brackets
+	stmaryrd,			% For brackets
+	CJK,
+	setspace
 }
 \usepackage[english]{babel}
-\usepackage{CJK}
-\usepackage{setspace}
 
 
 \iffalse
@@ -123,8 +123,12 @@
 % -------------------
 % Tikz & PGF
 % -------------------
-\usepackage{tikz}
-\usepackage{tikz-cd}
+\usepackage{
+    tikz,
+    tikz-cd,
+    pgfplots
+}
+
 \usetikzlibrary{
 	calc,
 	decorations.pathmorphing,
@@ -132,7 +136,7 @@
 	positioning,
 	shapes.geometric
 }
-\usepackage{pgfplots}
+
 \pgfplotsset{compat=newest}
 
 

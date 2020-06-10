@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.9)  11 JUN 2020 00:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.9)  11 JUN 2020 00:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -794,32 +794,6 @@ Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/03/22 3.42 The Babel package
-
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2020/03/22 3.42 Babel switching mechanism
-)
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/03/22 3.42 Babel common definitions
-\babel@savecnt=\count321
-\U@D=\dimen287
-
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read3
-LaTeX Info: Redefining \textlatin on input line 2435.
-\bbl@dirlevel=\count322
-)
-Package babel Info: \l@canadian = using hyphenrules for english
-(babel)             (\language0) on input line 102.
-Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language21) on input line 105.
-Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language21) on input line 108.
-))
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
 Package: CJK 2015/04/18 4.8.4
 
@@ -898,6 +872,32 @@ LaTeX Info: Redefining \selectfont on input line 755.
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count321
+\U@D=\dimen287
+
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+LaTeX Info: Redefining \textlatin on input line 2435.
+\bbl@dirlevel=\count322
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+))
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/beamer/beamerfontthemeserif.s
 ty) (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/psnfss/palatino.sty
 Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
@@ -1002,50 +1002,6 @@ File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowwidth=\dimen303
 \pgfarrowlinewidth=\dimen304
 )))
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
-aries/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
-aries/tikzlibrarydecorations.pathmorphing.code.tex
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
-aries/tikzlibrarydecorations.code.tex
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecora
-tions.code.tex
-\pgfdecoratedcompleteddistance=\dimen305
-\pgfdecoratedremainingdistance=\dimen306
-\pgfdecoratedinputsegmentcompleteddistance=\dimen307
-\pgfdecoratedinputsegmentremainingdistance=\dimen308
-\pgf@decorate@distancetomove=\dimen309
-\pgf@decorate@repeatstate=\count332
-\pgfdecorationsegmentamplitude=\dimen310
-\pgfdecorationsegmentlength=\dimen311
-)
-\tikz@lib@dec@box=\box125
-)
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/p
-gflibrarydecorations.pathmorphing.code.tex))
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
-aries/tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarr
-ows.code.tex
-File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen312
-))
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
-aries/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
-aries/tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflib
-raryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.
 tex)
@@ -1057,9 +1013,9 @@ tex
 \t@pgfplots@toka=\toks46
 \t@pgfplots@tokb=\toks47
 \t@pgfplots@tokc=\toks48
-\pgfplots@tmpa=\dimen313
-\c@pgfplots@coordindex=\count333
-\c@pgfplots@scanlineindex=\count334
+\pgfplots@tmpa=\dimen305
+\c@pgfplots@coordindex=\count332
+\c@pgfplots@scanlineindex=\count333
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgen
 eric.code.tex))
@@ -1077,13 +1033,13 @@ lotsliststructure.code.tex)
 lotsliststructureext.code.tex)
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfp
 lotsarray.code.tex
-\c@pgfplotsarray@tmp=\count335
+\c@pgfplotsarray@tmp=\count334
 )
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfp
 lotsmatrix.code.tex)
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/numtable/pgfplotst
 ableshared.code.tex
-\c@pgfplotstable@counta=\count336
+\c@pgfplotstable@counta=\count335
 \t@pgfplotstable@a=\toks49
 )
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfp
@@ -1096,7 +1052,7 @@ y.data.code.tex))
 verb.code.tex)
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgf
 plots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count337
+\c@pgfplotslibrarysurf@no=\count336
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfp
 lots.surfshading.pgfsys-pdftex.def)))
@@ -1125,16 +1081,35 @@ ode.tex)
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.paths.cod
 e.tex)
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
+aries/tikzlibrarydecorations.code.tex
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecora
+tions.code.tex
+\pgfdecoratedcompleteddistance=\dimen306
+\pgfdecoratedremainingdistance=\dimen307
+\pgfdecoratedinputsegmentcompleteddistance=\dimen308
+\pgfdecoratedinputsegmentremainingdistance=\dimen309
+\pgf@decorate@distancetomove=\dimen310
+\pgf@decorate@repeatstate=\count337
+\pgfdecorationsegmentamplitude=\dimen311
+\pgfdecorationsegmentlength=\dimen312
+)
+\tikz@lib@dec@box=\box125
+)
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
+aries/tikzlibrarydecorations.pathmorphing.code.tex
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/p
+gflibrarydecorations.pathmorphing.code.tex))
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
 aries/tikzlibrarydecorations.pathreplacing.code.tex
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/p
 gflibrarydecorations.pathreplacing.code.tex))
 \pgfplots@numplots=\count338
-\pgfplots@xmin@reg=\dimen314
-\pgfplots@xmax@reg=\dimen315
-\pgfplots@ymin@reg=\dimen316
-\pgfplots@ymax@reg=\dimen317
-\pgfplots@zmin@reg=\dimen318
-\pgfplots@zmax@reg=\dimen319
+\pgfplots@xmin@reg=\dimen313
+\pgfplots@xmax@reg=\dimen314
+\pgfplots@ymin@reg=\dimen315
+\pgfplots@ymax@reg=\dimen316
+\pgfplots@zmin@reg=\dimen317
+\pgfplots@zmax@reg=\dimen318
 )
 (d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
 aries/tikzlibraryplotmarks.code.tex
@@ -1144,6 +1119,31 @@ File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 tmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
+aries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
+aries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarr
+ows.code.tex
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen319
+))
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
+aries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
+aries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/ProgramData/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflib
+raryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
 \c@thm=\count339
 \c@prop=\count340
 \c@lem=\count341
@@ -1162,88 +1162,88 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 ) (./My_slide.aux)
 \openout1 = `My_slide.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 180.
-LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-80.
+84.
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
@@ -1307,7 +1307,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box128
-Package hyperref Info: Link coloring OFF on input line 180.
+Package hyperref Info: Link coloring OFF on input line 184.
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1321,9 +1321,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count355
 )
-LaTeX Info: Redefining \ref on input line 180.
-LaTeX Info: Redefining \pageref on input line 180.
-LaTeX Info: Redefining \nameref on input line 180.
+LaTeX Info: Redefining \ref on input line 184.
+LaTeX Info: Redefining \pageref on input line 184.
+LaTeX Info: Redefining \nameref on input line 184.
  (./My_slide.out) (./My_slide.out)
 \@outlinefile=\write5
 \openout5 = `My_slide.out'.
@@ -1331,41 +1331,41 @@ LaTeX Info: Redefining \nameref on input line 180.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/ppl/m/n on input line 180.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 180.
+(Font)                  OT1/cmr/m/n --> OT1/ppl/m/n on input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/ppl/b/n on input line 180.
+(Font)                  OT1/cmr/bx/n --> OT1/ppl/b/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ppl/b/n on input line 180.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 180.
+(Font)                  OT1/cmr/bx/n --> OT1/ppl/b/n on input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 180.
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 180.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 180.
+(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/ppl/m/it on input line 180.
+(Font)                  OT1/cmr/m/it --> OT1/ppl/m/it on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/ppl/m/it on input line 180.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 180.
+(Font)                  OT1/cmr/bx/it --> OT1/ppl/m/it on input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 180.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 180.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 184.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/ppl/m/n --> OT1/ppl/b/n on input line 180.
+(Font)                  OT1/ppl/m/n --> OT1/ppl/b/n on input line 184.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/ppl/m/it --> OT1/ppl/b/it on input line 180.
+(Font)                  OT1/ppl/m/it --> OT1/ppl/b/it on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ppl/b/n on input line 180.
+(Font)                  OT1/cmr/bx/n --> OT1/ppl/b/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/ppl/b/n --> OT1/ppl/b/n on input line 180.
+(Font)                  OT1/ppl/b/n --> OT1/ppl/b/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 180.
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ppl/m/it --> OT1/ppl/b/it on input line 180.
+(Font)                  OT1/ppl/m/it --> OT1/ppl/b/it on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/pcr/m/n --> OT1/pcr/b/n on input line 180.
+(Font)                  OT1/pcr/m/n --> OT1/pcr/b/n on input line 184.
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/translator/translator-basic-d
 ictionary-English.dict
@@ -1393,32 +1393,32 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 180.
+(lastpage)             ! on input line 184.
 
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
 
 (./My_slide.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 180
+LaTeX Font Info:    Trying to load font information for U+msa on input line 184
 .
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 180
+LaTeX Font Info:    Trying to load font information for U+msb on input line 184
 .
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
-80.
+84.
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 <logo.png, id=77, 362.7954pt x 363.0363pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 186.
+Package pdftex.def Info: logo.png  used on input line 190.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1437,7 +1437,7 @@ File: UTF8.enc 2015/04/18 4.8.4
 File: UTF8.chr 2015/04/18 4.8.4
 )
 LaTeX Font Info:    Trying to load font information for C70+gbsn on input line 
-202.
+206.
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/c70gbsn.fd
 File: c70gbsn.fd 2015/04/18 4.8.4
@@ -1447,7 +1447,7 @@ File: c70gbsn.fdx 2015/04/18 4.8.4
 )
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 202.
+Package pdftex.def Info: logo.png  used on input line 206.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1458,7 +1458,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 219.
+Package pdftex.def Info: logo.png  used on input line 223.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1469,7 +1469,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 233.
+Package pdftex.def Info: logo.png  used on input line 237.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1480,7 +1480,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 253.
+Package pdftex.def Info: logo.png  used on input line 257.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1491,7 +1491,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 264.
+Package pdftex.def Info: logo.png  used on input line 268.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1502,7 +1502,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 274.
+Package pdftex.def Info: logo.png  used on input line 278.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1513,7 +1513,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 298.
+Package pdftex.def Info: logo.png  used on input line 302.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1524,7 +1524,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 298.
+Package pdftex.def Info: logo.png  used on input line 302.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1535,7 +1535,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 298.
+Package pdftex.def Info: logo.png  used on input line 302.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1546,7 +1546,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 298.
+Package pdftex.def Info: logo.png  used on input line 302.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1557,7 +1557,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 315.
+Package pdftex.def Info: logo.png  used on input line 319.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1566,12 +1566,12 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 [12
 
 ]
-Overfull \vbox (4.49533pt too high) detected at line 337
+Overfull \vbox (4.49533pt too high) detected at line 341
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 337.
+Package pdftex.def Info: logo.png  used on input line 341.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1582,7 +1582,7 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 343.
+Package pdftex.def Info: logo.png  used on input line 347.
 (pdftex.def)             Requested size: 45.29395pt x 45.32889pt.
 
 Overfull \vbox (0.48972pt too high) has occurred while \output is active []
@@ -1602,19 +1602,19 @@ Overfull \vbox (0.48972pt too high) has occurred while \output is active []
 
  
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 346.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 346.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 350.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 350.
 (./My_slide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 346.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 346.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 350.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 350.
 Package rerunfilecheck Info: File `My_slide.out' has not changed.
 (rerunfilecheck)             Checksum: 55B675D8B95C3F075C3ECEE5BAF04EB1;312.
  ) 
 Here is how much of TeX's memory you used:
- 35422 strings out of 480608
- 847925 string characters out of 5901645
- 1259373 words of memory out of 5000000
- 50467 multiletter control sequences out of 15000+600000
+ 35419 strings out of 480608
+ 847827 string characters out of 5901645
+ 1227714 words of memory out of 5000000
+ 50464 multiletter control sequences out of 15000+600000
  558616 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,20n,136p,792b,798s stack positions out of 5000i,500n,10000p,200000b,80000s
