@@ -2,4 +2,4 @@
 
 
 
-<img src="https://github.com/Veenxz/My_Beamer/blob/master/Pictures/V1.0/My_slide%20V1.0%20(1).png">
+![My_slide V1.0 (1)](.\\Pictures\\V1.0\\My_slide V1.0 (1).png)
