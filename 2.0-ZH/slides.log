@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.9)  11 JUN 2020 11:25
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.9)  11 JUN 2020 12:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -937,6 +937,19 @@ Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
 )
+(d:/ProgramData/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write5
+
+Excluding comment 'comment')
+(d:/ProgramData/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(d:/ProgramData/texlive/2020/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks45
@@ -945,10 +958,7 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
-\CommentStream=\write5
-
-Excluding comment 'comment')
+)
 
 Package fontspec Info: Could not resolve font "Microsoft YaHei/I" (it probably
 (fontspec)             doesn't exist).
@@ -999,14 +1009,13 @@ Package fontspec Info: Font family 'MicrosoftYaHei(1)' created for font
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/beamer/beamerfontthemeprofess
 ionalfonts.sty)
-(d:/ProgramData/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(d:/ProgramData/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
+Package hyperref Info: Option `CJKbookmarks' set `true' on input line 42.
+ (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
-\symboldoperators=\mathgroup6
-\symboldletters=\mathgroup7
-\symboldsymbols=\mathgroup8
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldstmry=\mathgroup10
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 209.
 ) (./bfuthm.sty
@@ -1128,8 +1137,6 @@ d.sty)
 \titlepagespaceundername=\skip84
 \titlepagespaceunderdate=\skip85
  Excluding 'comment' comment.)
-Package hyperref Info: Option `CJKbookmarks' set `true' on input line 26.
-
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen331
@@ -1475,48 +1482,48 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\kaishu' on input line 83.
+(hyperref)                removing `\kaishu' on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 83.
+(hyperref)                replaced by space on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 83.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 83.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 83.
+(hyperref)                removing `\\' on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 83.
+(hyperref)                replaced by space on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 83.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 83.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 83.
+(hyperref)                removing `\\' on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 83.
+(hyperref)                replaced by space on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 10.95pt
+(hyperref)                replaced by space on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 10.95pt
+(hyperref)                replaced by space on input line 107.
 
 
 Package fontspec Info: Could not resolve font "Microsoft YaHei Bold/I" (it
@@ -1552,29 +1559,30 @@ Package: xeCJK-listings 2020/02/18 v3.8.2 xeCJK patch file for listings
 \@quotelevel=\count503
 \@quotereset=\count504
 
-No file slides.aux.
+(./slides.aux)
 \openout1 = `slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1611,7 +1619,7 @@ LaTeX Font Info:    ... okay on input line 88.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box95
-Package hyperref Info: Link coloring OFF on input line 88.
+Package hyperref Info: Link coloring OFF on input line 112.
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1625,15 +1633,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count505
 )
-LaTeX Info: Redefining \ref on input line 88.
-LaTeX Info: Redefining \pageref on input line 88.
-LaTeX Info: Redefining \nameref on input line 88.
+LaTeX Info: Redefining \ref on input line 112.
+LaTeX Info: Redefining \pageref on input line 112.
+LaTeX Info: Redefining \nameref on input line 112.
+ (./slides.out) (./slides.out)
 \@outlinefile=\write7
 \openout7 = `slides.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/translator/translator-basic-d
@@ -1665,65 +1670,66 @@ eorem-dictionary-ChineseUTF8.dict
 Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2019/05/29 v2.
 4.16 Chinese translation for theorem name (CTEX)
 ) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 88.
+LaTeX Info: Redefining \selectfont on input line 112.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
-\symlegacymaths=\mathgroup9
+\symlegacymaths=\mathgroup11
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 88.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 88.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 88.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 88.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 88.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 88.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 88.
-LaTeX Font Info:    Redeclaring math accent \check on input line 88.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 88.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 88.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 88.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 88.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 112.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 112.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 112.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 112.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 112.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 112.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 112.
+LaTeX Font Info:    Redeclaring math accent \check on input line 112.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 112.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 112.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 112.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 112.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 88.
+(Font)              `operators' in the math version `normal' on input line 112.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 88.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 112.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 88.
+(Font)              `operators' in the math version `bold' on input line 112.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 88.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 112.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 88.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 88.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 88.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/MicrosoftYaHei(0)/m/n on input line
- 88.
+ 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 88.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 112.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 88.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 88.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/MicrosoftYaHei(0)/b/n on input lin
-e 88.
+e 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 88.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 112.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1740,10 +1746,10 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'slides.bbl' not found.
 
 No file slides.bbl.
-Package biblatex Info: Reference section=0 on input line 88.
-Package biblatex Info: Reference segment=0 on input line 88.
+Package biblatex Info: Reference section=0 on input line 112.
+Package biblatex Info: Reference segment=0 on input line 112.
 \c@lstlisting=\count506
-No file slides.nav.
+(./slides.nav)
 File: logo.png Graphic file (type bmp)
 <logo.png>
 
@@ -1770,27 +1776,25 @@ Package fontspec Info: Font family 'KaiTi(0)' created for font 'KaiTi' with
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Overfull \hbox (398.3386pt too wide) in paragraph at lines 107--107
+Overfull \hbox (398.3386pt too wide) in paragraph at lines 131--131
 [][][]  
  []
 
 [1
 
-]
-No file slides.toc.
-[2
+] (./slides.toc) [2
 
 ] [3
 
 ]
 
 LaTeX Font Warning: Font shape `TU/MicrosoftYaHei(0)/m/it' undefined
-(Font)              using `TU/MicrosoftYaHei(0)/m/n' instead on input line 129.
+(Font)              using `TU/MicrosoftYaHei(0)/m/n' instead on input line 153.
 
 
 
 LaTeX Font Warning: Font shape `TU/MicrosoftYaHei(2)/m/it' undefined
-(Font)              using `TU/MicrosoftYaHei(2)/m/n' instead on input line 129.
+(Font)              using `TU/MicrosoftYaHei(2)/m/n' instead on input line 153.
 
 
 
@@ -1867,28 +1871,31 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 ] [5
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 153
+LaTeX Font Info:    Trying to load font information for U+msa on input line 177
 .
  (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 153
+LaTeX Font Info:    Trying to load font information for U+msb on input line 177
 .
 
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
+77.
 
-LaTeX Warning: Citation 'em1977' on page 6 undefined on input line 153.
+(d:/ProgramData/texlive/2020/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+
+LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
+(Font)              using `U/stmry/m/n' instead on input line 177.
 
 
-LaTeX Warning: Reference `eq1' on page 6 undefined on input line 153.
+LaTeX Warning: Citation 'em1977' on page 6 undefined on input line 177.
 
 [6
 
-]
-No file slides.toc.
-[7
+] (./slides.toc) [7
 
 ] [8
 
@@ -1911,9 +1918,7 @@ File: logo_new.png Graphic file (type bmp)
 
 ] [12
 
-]
-No file slides.toc.
-[13
+] (./slides.toc) [13
 
 ] [14
 
@@ -1922,7 +1927,8 @@ No file slides.toc.
 ]
 \openout4 = `slides.vrb'.
 
- (./slides.vrb
+
+(./slides.vrb
 (d:/ProgramData/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
@@ -1931,9 +1937,7 @@ LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
 )
 [16
 
-]
-No file slides.toc.
-[17
+] (./slides.toc) [17
 
 ] [18
 
@@ -1941,7 +1945,7 @@ No file slides.toc.
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 276.
+LaTeX Warning: Empty bibliography on input line 300.
 
 [20
 
@@ -1955,28 +1959,19 @@ LaTeX Warning: Empty bibliography on input line 276.
 \tf@snm=\write10
 \openout10 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 278.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 278.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 302.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 302.
  (./slides.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 278.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 278.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 302.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 302.
+Package rerunfilecheck Info: File `slides.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
-
-Package rerunfilecheck Warning: File `slides.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `slides.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1988,12 +1983,12 @@ Package logreq Info: Writing requests to 'slides.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39318 strings out of 479418
- 821131 string characters out of 5882826
- 1503224 words of memory out of 5000000
- 55996 multiletter control sequences out of 15000+600000
- 547683 words of font info for 147 fonts, out of 8000000 for 9000
+ 39703 strings out of 479418
+ 826166 string characters out of 5882826
+ 1511814 words of memory out of 5000000
+ 56351 multiletter control sequences out of 15000+600000
+ 549111 words of font info for 154 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,22n,82p,790b,1469s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,22n,82p,773b,1469s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on slides.pdf (20 pages).

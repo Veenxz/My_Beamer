@@ -1,8 +1,28 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                           %
+%                             My LaTeX slide                                %
+%                      Author:Veenxz Version:2.0-ZH                         %
+%                            Generator:XeLaTeX                              %
+%                      Beijing Forestry University                          %
+%                         Update Date:2020/06/11                            %
+%                                                                           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 \documentclass[hyperref,UTF8,11pt,aspectratio=169]{beamer}
-\usepackage{ctex}
+
+\usepackage{
+    ctex,
+    fontspec,
+    comment,
+    setspace,
+    stmaryrd,
+    graphicx,
+    hyperref
+}
+
 \usepackage[utf8]{inputenc}
-\usepackage{fontspec}
-\usepackage{comment}
+
 
 %\setCJKfamilyfont{SimHei}
 \usepackage{xeCJK}
@@ -13,20 +33,21 @@
 %\setCJKmonofont{KaiTi}
 %\setCJKsansfont{Microsoft YaHei}
 \usefonttheme{professionalfonts}
-\usepackage{hyperref}
-\usepackage{graphicx}
-\usepackage{setspace}
+
 
 \graphicspath{{image/}} % storage figure in a sub-folder
 % \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
 %\usepackage{epstopdf}
-\usepackage{bm}
-\usepackage{bfuthm}
 %\usepackage{hyperref}
 \hypersetup{CJKbookmarks=true}
-\usepackage{url}
-\usepackage{amsmath}
-\usepackage{amsthm}
+\usepackage{
+    bm,
+    bfuthm,
+    url,
+    amsmath,
+    amsthm
+}
+
 %\theoremstyle{definition}
 %\newtheorem{theorem}{定理}
 %\newtheorem{definition}{定义}
@@ -41,19 +62,22 @@
 \addbibresource{nkthesis.bib}
 \beamertemplatetextbibitems
 
-\usepackage{array} % for better arrays (eg matrices) in maths
 %\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
-\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
-\usepackage{subfigure} % make it possible to include more than one captioned figure/table in a single float
-% These packages are all incorporated in the memoir class to one degree or another...
-%\usepackage{threeparttable}
-\usepackage{cases} %equation set
-\usepackage{multirow} %use table
-\usepackage{enumerate}
-\usepackage{algorithm}
-\usepackage{algorithmic}
-\usepackage{xcolor}
-%\usepackage{capt-of}
+\usepackage{
+    array,             % for better arrays (eg matrices) in maths
+    verbatim,          % adds environment for commenting out blocks of text & for better verbatim
+    subfigure,         % make it possible to include more than one captioned figure/table in a single float
+                       % These packages are all incorporated in the memoir class to one degree or another...
+    % threeparttable,
+    cases,             %equation set
+    multirow,          %use table
+    enumerate,
+    algorithm,
+    algorithmic,
+    xcolor,
+    % capt-of
+}
+
 \setcounter{tocdepth}{1}%只显示section，不显示subsection
 
 \usepackage{listings}
